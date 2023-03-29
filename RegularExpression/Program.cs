@@ -23,8 +23,11 @@ namespace RegularExpression
             //Validate ecode = new Validate();
            // ecode.Try1("abc.xyz");
 
+            //Validate ecode = new Validate();
+            //ecode.Try1("abc.xyz@");
+
             Validate ecode = new Validate();
-            ecode.Try1("abc.xyz@");
+            ecode.Try1("abc.xyz@bridgelabz.");
         }
     }
 }
