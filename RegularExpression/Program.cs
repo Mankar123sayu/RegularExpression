@@ -11,8 +11,11 @@ namespace RegularExpression
            // Validate code = new Validate();
            // code.Try("400088");
 
+           // Validate code = new Validate();
+           // code.Try("S400088");
+
             Validate code = new Validate();
-            code.Try("S400088");
+            code.Try("400088Z");
         }
     }
 }
