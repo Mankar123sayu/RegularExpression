@@ -8,8 +8,11 @@ namespace RegularExpression
         static void Main(string[] args)
         {
             //UC1
+           // Validate code = new Validate();
+           // code.Try("400088");
+
             Validate code = new Validate();
-            code.Try("400088");
+            code.Try("S400088");
         }
     }
 }
