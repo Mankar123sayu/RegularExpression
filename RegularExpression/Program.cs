@@ -17,8 +17,11 @@ namespace RegularExpression
            // Validate code = new Validate();
            // code.Try("400088Z");
 
-            Validate code = new Validate();
-            code.Try("400 088");
+           // Validate code = new Validate();
+            //code.Try("400 088");
+
+            Validate ecode = new Validate();
+            ecode.Try1("abc.xyz");
         }
     }
 }
